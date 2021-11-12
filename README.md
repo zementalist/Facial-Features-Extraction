@@ -1,6 +1,7 @@
 # Facial Features Extraction
 <a href="https://www.kaggle.com/zeyadkhalid/facial-features-extraction" target="_blank">View notebook on Kaggle</a>
 <h3>Conclusion:</h3>
+<h5>Extract 16 facial features -13 unique-, with the ability to detect the clear side of the face (in case the face is NOT looking straight) and extract the features of that side</h5>
 <img src="https://user-images.githubusercontent.com/50156227/141173585-6027a668-13c5-4f9c-8dc0-85bda8f84732.jpg" height="640">
 <br>
 <h4><b>Note:</b></h4>
